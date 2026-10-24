@@ -1,104 +1,109 @@
-Patricks Priesthood
+# Hi there, I'm Patricks Priesthood (Whinhosa) 👋
 
-Software Engineer · AI Product Builder · Data Analyst
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24&height=180&section=header&text=Patricks%20Priesthood&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Product%20Builder%20%7C%20Data%20Analyst&descSize=18&descAlignY=62&descAlign=50" width="100%" />
+</p>
 
-I build useful software from first principles — turning real-world problems into products, systems, and data-driven tools.
+<p align="center">
+  <a href="https://www.linkedin.com/in/whinhosa-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:patrickspriesthood@icloud.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Whinh0sa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-Patricks Priesthood · Whinhosa · @Whinh0sa
-
----
-
-What I build
-
-I'm interested in the intersection of software engineering, AI, data, and product development.
-
-My approach is simple:
-
-«Understand the problem. Build from first principles. Ship something useful. Then make it better.»
-
-I enjoy taking an idea from a rough problem statement to a working product — including the interface, data layer, automation, and engineering decisions behind it.
+<p align="center">
+  <i>"Understand the problem. Build from first principles. Ship something useful. Then make it better."</i>
+</p>
 
 ---
 
-Selected work
+## ⚡ About Me
 
-MykroGrid
+I turn real-world operational problems into structured software systems, desktop utilities, and AI-driven products.
 
-At MykroGrid, I build software and data tools around real operational problems in the solar-energy business.
-
-My work has included internal business systems, CRM workflows, analytics, invoice generation, and tools designed to make everyday operations more measurable and efficient.
-
-"Annotated Platform" (https://github.com/Whinh0sa/annotated-platform)
-
-An exploration of building software around structured information, annotation, and knowledge workflows.
-
-"Goal-Locked" (https://github.com/Whinh0sa/Goal-Locked)
-
-A browser-based 3D arcade battle experience built with React, Three.js, React Three Fiber, and Cannon-es.
-
-It explores real-time interaction, physics, game systems, AI-controlled opponents, responsive UI, and performance-conscious 3D development.
-
-"MykroGrid Invoice Generator" (https://github.com/Whinh0sa/mykrogrid-invoice-generator)
-
-A production-oriented invoice and repayment-schedule generator built for real business use.
-
-Built with React, TypeScript, Vite, and Lucide.
-
-"Whinhosa Data Intelligence" (https://github.com/Whinh0sa/Whinhosa-Data-Intelligence)
-
-A Windows data-management and monitoring application featuring local SQLite storage, network monitoring, anomaly detection, and predictive data-cap analysis.
-
-Built with Python and CustomTkinter.
-
-"PyVariety" (https://github.com/Whinh0sa/PyVariety)
-
-A native Windows desktop utility focused on wallpapers, desktop widgets, caching, clipboard monitoring, and system-aware behaviour.
+- 🏢 **Data Analyst & Project Manager** at **MykroGrid** — architecting operational data pipelines, CRM systems, automated billing, and repayment tools for the solar sector.
+- 🎓 Studying **Computer Science** at the **National Open University of Nigeria (NOUN)**.
+- 🛠️ Specializing in **AI Product Engineering, Full-Stack Architecture, and Native Desktop Utilities**.
+- 🚀 Interested in computer vision, spatial UI, real-time 3D web engines, and how LLM-assisted workflows reshape application engineering.
 
 ---
 
-Engineering interests
+## 🛠️ Tech Stack & Tooling
 
-- Software Engineering
-- AI Engineering & AI-assisted development
-- Data & Analytics
-- Product Engineering
-- System Design
-- Backend Engineering
-- Automation
-- Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,vite,nextjs,threejs,tailwind,html,css" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,nodejs,express,git,github,powershell,windows,vscode" />
+</p>
 
-Technologies
-
-Languages
-
-Python · JavaScript · TypeScript · SQL
-
-Frameworks & Tools
-
-React · Vite · Three.js · React Three Fiber · SQLite · NumPy · Power BI · Excel
-
-Currently deepening
-
-Software architecture · System design · Backend engineering · Cloud & distributed systems · AI product development
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **Web & Graphics:** React, Vite, Next.js, Three.js, React Three Fiber, Tailwind CSS
+- **AI & Computer Vision:** ONNX Runtime, NumPy, OpenCV, Computer Vision pipelines
+- **Data & Business Intelligence:** Power BI, Advanced Excel, SQLite, PostgreSQL
+- **Systems & Automation:** Windows APIs (`pywin32`), PowerShell, CustomTkinter, Electron
 
 ---
 
-Current direction
+## 🚀 Featured Projects
 
-I'm working toward becoming a stronger Software Engineer and AI Product Engineer, with a focus on building systems that solve real problems rather than simply demonstrating technology.
-
-I'm particularly interested in how AI changes the way software is designed, built, and used.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⏰ <a href="https://github.com/Whinh0sa/depth-clock">Depth Clock</a></h3>
+      <p>Windows desktop utility bringing iOS 16-style depth effect lockscreen & desktop wallpapers to Windows 10/11 using ONNX neural vision models (MiDaS & U-2-Net).</p>
+      <p><b>Tech:</b> <code>Python</code> · <code>CustomTkinter</code> · <code>ONNX Runtime</code> · <code>Win32 API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚽ <a href="https://github.com/Whinh0sa/Goal-Locked">Goal-Locked</a></h3>
+      <p>3D browser-based arcade football battle royale game featuring real-time physics, AI opponents, and responsive gameplay systems.</p>
+      <p><b>Tech:</b> <code>React</code> · <code>Three.js</code> · <code>React Three Fiber</code> · <code>Cannon-es</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📑 <a href="https://github.com/Whinh0sa/mykrogrid-invoice-generator">MykroGrid Invoice Generator</a></h3>
+      <p>Production billing system and automated repayment schedule generator engineered for solar power deployments and contract management.</p>
+      <p><b>Tech:</b> <code>React</code> · <code>TypeScript</code> · <code>Vite</code> · <code>Tailwind</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/Whinh0sa/Whinhosa-Data-Intelligence">Data Intelligence Suite</a></h3>
+      <p>Desktop application featuring network monitoring, predictive data usage analysis, anomaly detection, and local SQLite data persistence.</p>
+      <p><b>Tech:</b> <code>Python</code> · <code>CustomTkinter</code> · <code>SQLite</code> · <code>NumPy</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ <a href="https://github.com/Whinh0sa/PyVariety">PyVariety</a></h3>
+      <p>Native Windows desktop wallpaper management tool with clipboard tracking, offline caching, and system-aware wallpaper switching.</p>
+      <p><b>Tech:</b> <code>Python</code> · <code>Tkinter</code> · <code>Pillow</code> · <code>Windows API</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 <a href="https://github.com/Whinh0sa/annotated-platform">Annotated Platform</a></h3>
+      <p>Social media annotation platform and high-performance Chrome extension for annotating structured web media.</p>
+      <p><b>Tech:</b> <code>Next.js</code> · <code>React</code> · <code>Chrome Extensions API</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-Find me
+## 📈 GitHub Activity & Stats
 
-GitHub: "@Whinh0sa" (https://github.com/Whinh0sa)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Whinh0sa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whinh0sa&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-Name: Patricks Priesthood
-
-Brand / identity: Whinhosa
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whinh0sa&theme=tokyonight&hide_border=true" width="96%" />
+</p>
 
 ---
 
-Building from first principles.
+## 📬 Connect With Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/whinhosa-](https://www.linkedin.com/in/whinhosa-)
+- 📧 **Email:** [patrickspriesthood@icloud.com](mailto:patrickspriesthood@icloud.com)
+- 🐙 **GitHub:** [@Whinh0sa](https://github.com/Whinh0sa)
+
+<p align="center">
+  <sub>Designed & built with care by <b>Patricks Priesthood (Whinhosa)</b>.</sub>
+</p>
